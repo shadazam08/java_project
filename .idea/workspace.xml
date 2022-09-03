@@ -1,13 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="26c47e74-d1c4-42d6-9906-2c4033ff2d48" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java_ practice.iml" afterDir="false" />
+    <list default="true" id="26c47e74-d1c4-42d6-9906-2c4033ff2d48" name="Changes" comment="practice">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Star_Pattern/Left_Triangle_Star_Pattern.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Star_Pattern/Mirror_triangle_Pattern.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Star_Pattern/Right_Triangle_Star_Pattern.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Star_Pattern/star_pattern1.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,6 +21,12 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--tags" />
+        <option name="title" value="All" />
+      </GitPushTagMode>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
@@ -35,28 +40,15 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Application.star_pattern1">
+}</component>
+  <component name="RunManager" selected="Application.star_pattern1 (1)">
     <configuration name="Left_Triangle_Star_Pattern" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Star_Pattern.Left_Triangle_Star_Pattern" />
-      <module name="java_ practice" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Star_Pattern.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Mirror_triangle_Pattern" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Star_Pattern.Mirror_triangle_Pattern" />
       <module name="java_ practice" />
       <extension name="coverage">
         <pattern>
@@ -81,12 +73,24 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="input_array_and_output" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="java_arrays.input_array_and_output" />
+    <configuration name="Solid_Rectangle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Star_Pattern.Solid_Rectangle" />
       <module name="java_ practice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="java_arrays.*" />
+          <option name="PATTERN" value="Star_Pattern.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="star_pattern1 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Star_Pattern.star_pattern1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Star_Pattern.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -109,11 +113,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.star_pattern1 (1)" />
+        <item itemvalue="Application.Solid_Rectangle" />
         <item itemvalue="Application.star_pattern1" />
         <item itemvalue="Application.Right_Triangle_Star_Pattern" />
-        <item itemvalue="Application.Mirror_triangle_Pattern" />
         <item itemvalue="Application.Left_Triangle_Star_Pattern" />
-        <item itemvalue="Application.input_array_and_output" />
       </list>
     </recent_temporary>
   </component>
@@ -126,6 +130,14 @@
       <option name="presentableId" value="Default" />
       <updated>1661871711364</updated>
     </task>
+    <task id="LOCAL-00001" summary="practice">
+      <created>1661872483228</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1661872483228</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -138,5 +150,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="practice" />
+    <option name="LAST_COMMIT_MESSAGE" value="practice" />
   </component>
 </project>
