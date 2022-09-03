@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="26c47e74-d1c4-42d6-9906-2c4033ff2d48" name="Changes" comment="practice">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Star_Pattern/Hollow_Rectangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Star_Pattern/Hollow_Rectangle.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Star_Pattern/Solid_Rectangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Star_Pattern/Solid_Rectangle.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -43,7 +44,20 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Solid_Rectangle">
+  <component name="RunManager" selected="Application.Inverted_half_pyramid_rotated_by_180">
+    <configuration name="Half_Pyramid" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Star_Pattern.Half_Pyramid" />
+      <module name="java_ practice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Star_Pattern.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Hollow_Rectangle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Star_Pattern.Hollow_Rectangle" />
       <module name="java_ practice" />
@@ -57,8 +71,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Right_Triangle_Star_Pattern" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Star_Pattern.Right_Triangle_Star_Pattern" />
+    <configuration name="Inverted_half_pyramid" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Star_Pattern.Inverted_half_pyramid" />
+      <module name="java_ practice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Star_Pattern.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Inverted_half_pyramid_rotated_by_180" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Star_Pattern.Inverted_half_pyramid_rotated_by_180" />
       <module name="java_ practice" />
       <extension name="coverage">
         <pattern>
@@ -83,38 +110,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="star_pattern1 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Star_Pattern.star_pattern1" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Star_Pattern.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="star_pattern1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Star_Pattern.star_pattern1" />
-      <module name="java_ practice" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Star_Pattern.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Solid_Rectangle" />
+        <item itemvalue="Application.Inverted_half_pyramid_rotated_by_180" />
+        <item itemvalue="Application.Inverted_half_pyramid" />
+        <item itemvalue="Application.Half_Pyramid" />
         <item itemvalue="Application.Hollow_Rectangle" />
-        <item itemvalue="Application.star_pattern1 (1)" />
-        <item itemvalue="Application.star_pattern1" />
-        <item itemvalue="Application.Right_Triangle_Star_Pattern" />
+        <item itemvalue="Application.Solid_Rectangle" />
       </list>
     </recent_temporary>
   </component>
@@ -148,7 +150,14 @@
       <option name="project" value="LOCAL" />
       <updated>1662182585581</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="practice">
+      <created>1662184212124</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1662184212124</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
