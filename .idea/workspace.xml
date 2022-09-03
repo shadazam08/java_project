@@ -3,10 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="26c47e74-d1c4-42d6-9906-2c4033ff2d48" name="Changes" comment="practice">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Star_Pattern/Left_Triangle_Star_Pattern.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Star_Pattern/Mirror_triangle_Pattern.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Star_Pattern/Right_Triangle_Star_Pattern.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Star_Pattern/star_pattern1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Star_Pattern/Solid_Rectangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Star_Pattern/Solid_Rectangle.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,8 +44,8 @@
   }
 }</component>
   <component name="RunManager" selected="Application.Solid_Rectangle">
-    <configuration name="Left_Triangle_Star_Pattern" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Star_Pattern.Left_Triangle_Star_Pattern" />
+    <configuration name="Hollow_Rectangle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Star_Pattern.Hollow_Rectangle" />
       <module name="java_ practice" />
       <extension name="coverage">
         <pattern>
@@ -114,10 +111,10 @@
     <recent_temporary>
       <list>
         <item itemvalue="Application.Solid_Rectangle" />
+        <item itemvalue="Application.Hollow_Rectangle" />
         <item itemvalue="Application.star_pattern1 (1)" />
         <item itemvalue="Application.star_pattern1" />
         <item itemvalue="Application.Right_Triangle_Star_Pattern" />
-        <item itemvalue="Application.Left_Triangle_Star_Pattern" />
       </list>
     </recent_temporary>
   </component>
@@ -137,7 +134,21 @@
       <option name="project" value="LOCAL" />
       <updated>1661872483228</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="practice">
+      <created>1662182415713</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1662182415713</updated>
+    </task>
+    <task id="LOCAL-00003" summary="practice">
+      <created>1662182585581</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1662182585581</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
