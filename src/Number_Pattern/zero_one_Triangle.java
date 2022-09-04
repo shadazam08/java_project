@@ -9,10 +9,10 @@ public class zero_one_Triangle {
             // inner loop
             for(int j = 1; j <= i; j++){
                 int sum = i + j;
-                // check condition
-                if(sum % 2 == 0){
+                // check condition for even and odd
+                if(sum % 2 == 0){ //even
                     System.out.print("1 ");
-                }else {
+                }else { //odd
                     System.out.print("0 ");
                 }
             }
