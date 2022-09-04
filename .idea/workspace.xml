@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="26c47e74-d1c4-42d6-9906-2c4033ff2d48" name="Changes" comment="practice">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Number_Pattern/zero_one_Triangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Number_Pattern/zero_one_Triangle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Number_Pattern/Inverted_pyramid_with_number.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Number_Pattern/Inverted_pyramid_with_number.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -191,7 +191,14 @@
       <option name="project" value="LOCAL" />
       <updated>1662193263677</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="practice">
+      <created>1662282636298</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1662282636345</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

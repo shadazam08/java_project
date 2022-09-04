@@ -12,7 +12,19 @@ public class Inverted_pyramid_with_number {
             for(int j = 1; j <= n-i; j++){
                 System.out.print("X X ");
             }
-            for(int j = i; j >=1; j--){
+            for(int j = i; j >= 1; j--){
+                System.out.print(j + " ");
+            }
+            System.out.println();
+        }
+        for(int i = 1; i <= n; i++){
+            for(int j = 1; j <= i; j++){
+                System.out.print(j + " ");
+            }
+            for(int j = 1; j <= n-i; j++){
+                System.out.print("X X ");
+            }
+            for(int j = 1; j <= i; j++){
                 System.out.print(j + " ");
             }
             System.out.println();
