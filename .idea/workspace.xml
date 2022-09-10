@@ -2,17 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="26c47e74-d1c4-42d6-9906-2c4033ff2d48" name="Changes" comment="practice">
-      <change afterPath="$PROJECT_DIR$/src/Number_Pattern/factorial_number_pattern.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Star_Pattern/test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/Butterfly_pattern.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/Hollow_rectangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/even_number.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/solid_Rhombus.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/today_08_09_2022_task/arrayAscendingOrder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/today_08_09_2022_task/arrayDescendingOrder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/today_08_09_2022_task/largestElementArrays.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/today_08_09_2022_task/perimeterOfARectangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/zero_one.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -53,7 +42,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.perimeterOfARectangle">
+  <component name="RunManager" selected="Application.largestElementArrays">
     <configuration name="arrayAscendingOrder" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="test.today_08_09_2022_task.arrayAscendingOrder" />
       <module name="java_ practice" />
@@ -121,8 +110,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.perimeterOfARectangle" />
         <item itemvalue="Application.largestElementArrays" />
+        <item itemvalue="Application.perimeterOfARectangle" />
         <item itemvalue="Application.arrayDescendingOrder" />
         <item itemvalue="Application.arrayAscendingOrder" />
         <item itemvalue="Application.zero_one" />
@@ -222,7 +211,14 @@
       <option name="project" value="LOCAL" />
       <updated>1662652036187</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="practice">
+      <created>1662652092814</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1662652092814</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
