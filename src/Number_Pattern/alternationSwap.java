@@ -1,4 +1,4 @@
-package Arrays;
+package Number_Pattern;
 import java.util.Scanner;
 public class alternationSwap { // {1 2 3 4 5} ans is {2 1 3 4 5}
     public static void swapNumber(int[] arr){
