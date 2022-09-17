@@ -1,11 +1,11 @@
 
-1.  Write a program that creates integer array of 10 elements, accepts values of arrays and then displays the values.
-2.  Write a program that creates integer array of 10 elements, accepts values of arrays and Print the array in reverse
-3.  Write a program that creates integer array of 10 elements, accepts values of arrays and Find Sum, Average, Min, Max.
-4.  Write a program that creates integer array of 10 elements, accepts values of arrays and Print only even numbers in the array.
-5.  Write a program that creates integer array of 10 elements, accepts values of arrays and Find sum of all Even numbers.
-6.  Write a program that creates integer array of 10 elements, accepts values of arrays and Find sum of all odd numbers
-7.  Write a program that creates integer array of 10 elements, accepts values of arrays and Search for a number in an array of 10
+(Done)1.  Write a program that creates integer array of N elements, accepts values of arrays and then displays the values.
+(Done)2.  Write a program that creates integer array of N elements, accepts values of arrays and Print the array in reverse
+(Done)3.  Write a program that creates integer array of N elements, accepts values of arrays and Find Sum, Average, Min, Max.
+(Done)4.  Write a program that creates integer array of N elements, accepts values of arrays and Print only even numbers in the array.
+(Done)5.  Write a program that creates integer array of N elements, accepts values of arrays and Find sum of all Even numbers.
+(Done)6.  Write a program that creates integer array of N elements, accepts values of arrays and Find sum of all odd numbers
+7.  Write a program that creates integer array of N elements, accepts values of arrays and Search for a number in an array of 10
 8.  Write a program which takes in 10 values and creates another array which has cubes of the values (or factorial) and prints it.
 9.  Write an array which takes in roll no and marks in 3 subjects for 10 students. Print the roll no, total marks and average for all students.
 10. Write a program to take in 10 values and print only those nos which are prime.

@@ -3,7 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="26c47e74-d1c4-42d6-9906-2c4033ff2d48" name="Changes" comment="practice">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Arrays/alternationSwap.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Number_Pattern/alternationSwap.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Arrays/arrays3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Arrays/arrays3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Arrays/javaQuestion" beforeDir="false" afterPath="$PROJECT_DIR$/src/Arrays/javaQuestion" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,6 +27,9 @@
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/Arrays/arrays4.java" root0="SKIP_INSPECTION" />
+  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
@@ -44,46 +48,7 @@
     &quot;last_opened_file_path&quot;: &quot;F:/Newton_school/java_ practice&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.arrays3">
-    <configuration name="alternationSwap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Number_Pattern.alternationSwap" />
-      <module name="java_ practice" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Number_Pattern.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="arrays1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Arrays.arrays1" />
-      <module name="java_ practice" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Arrays.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="arrays2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Arrays.arrays2" />
-      <module name="java_ practice" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Arrays.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.arrays7">
     <configuration name="arrays3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Arrays.arrays3" />
       <module name="java_ practice" />
@@ -97,12 +62,51 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="factorial_number_pattern" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Number_Pattern.factorial_number_pattern" />
+    <configuration name="arrays4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Arrays.arrays4" />
       <module name="java_ practice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Number_Pattern.*" />
+          <option name="PATTERN" value="Arrays.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="arrays5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Arrays.arrays5" />
+      <module name="java_ practice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Arrays.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="arrays6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Arrays.arrays6" />
+      <module name="java_ practice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Arrays.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="arrays7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Arrays.arrays7" />
+      <module name="java_ practice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Arrays.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -112,11 +116,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.arrays7" />
         <item itemvalue="Application.arrays3" />
-        <item itemvalue="Application.arrays2" />
-        <item itemvalue="Application.arrays1" />
-        <item itemvalue="Application.alternationSwap" />
-        <item itemvalue="Application.factorial_number_pattern" />
+        <item itemvalue="Application.arrays6" />
+        <item itemvalue="Application.arrays5" />
+        <item itemvalue="Application.arrays4" />
       </list>
     </recent_temporary>
   </component>
@@ -248,7 +252,14 @@
       <option name="project" value="LOCAL" />
       <updated>1663427521834</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="practice">
+      <created>1663443696071</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1663443696071</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

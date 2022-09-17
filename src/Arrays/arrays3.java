@@ -28,7 +28,7 @@ public class arrays3 {
         average /= n;
         System.out.println("Sum = "+sum);
         System.out.printf("Average = %.2f\n", average);
-        System.out.println("Min = "+ min);
+        System.out.println("index of Min Value is = "+ min);
         System.out.println("Max = "+ max);
     }
 }
