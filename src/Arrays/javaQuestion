@@ -20,6 +20,17 @@
     1       2       3
     4       5       6
     7       8       9
-17. Write a program to input and store the weight of ten people. Sort and display them in descending order using the Selection sort technique.
-18. Write a program to take in 10 values from user in a single dimensional array. Print only numbers which have 4 digits.
-19. Write a program which takes in 10 people’s age and gives no of people who are < 18, 18-60, >60
+17. Write a program to take in 10 values from user in a single dimensional array. Print only numbers which have 4 digits.
+18. Write a program which takes in 10 people’s age and gives no of people who are < 18, 18-60, >60
+19. Given an array Arr, of N integers find the sum of max(A[i], A[j]) for all i, j such that i < j.
+    input
+    4
+    5 3 3 1
+    output : 24
+20. Given an array of length N in which you can swap two elements if their sum is odd i.e for every i (1 to N) and j (1 to N) if (Arr[i] + Arr[j]) is odd then you can swap these elements.
+    What is the lexicographically smallest array you can obtain?
+    Sample Input:-
+    3
+    4 1 7
+    Sample Output:-
+    1 4 7
