@@ -12,16 +12,16 @@ public class arrays7 {
         int k = sc.nextInt();
         int j;
         int index = 0;
-        for(j = 0; j<=n; j++){
+        for(j=0; j<=n-1; j++){
             if(arr[j] == k){
-                index = 1;
-            }else{
                 index = 0;
+                break;
+            }else{
+                index = 1;
             }
-            break;
         }
-        if(index == 1){
-            System.out.println("Element Found at index Number is = "+ j+1);
+        if(index == 0){
+            System.out.println("Element Found at index Number is = "+ j);
         }else{
             System.out.println("Element not Found");
         }
