@@ -53,3 +53,4 @@
     1 2
     2 2
 25. Given an unsorted array arr[] of size N having both negative and positive integers. The task is place all negative element at the end of array without changing the order of positive element and negative element.
+26. Given a vector of N positive integers and an integer X. The task is to find the frequency of X in vector.
