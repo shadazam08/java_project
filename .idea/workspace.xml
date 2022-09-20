@@ -5,9 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="26c47e74-d1c4-42d6-9906-2c4033ff2d48" name="Changes" comment="practice">
-      <change afterPath="$PROJECT_DIR$/src/Arrays/arrays30.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SortingS/bubbleShort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SortingS/insertionSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SortingS/selectionSort.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Arrays/javaQuestion" beforeDir="false" afterPath="$PROJECT_DIR$/src/Arrays/javaQuestion" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,6 +23,7 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PUSH_AUTO_UPDATE" value="true" />
     <option name="PUSH_TAGS">
       <GitPushTagMode>
         <option name="argument" value="--tags" />
@@ -44,17 +46,20 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;F:/Newton_school/java_ practice&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.keymap&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "F:/Newton_school/java_ practice",
+    "project.structure.last.edited": "Problems",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "project.propGUI"
   }
-}</component>
-  <component name="RunManager" selected="Application.arrays30">
-    <configuration name="arrays27" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Arrays.arrays27" />
+}]]></component>
+  <component name="RunManager" selected="Application.insertionSort">
+    <configuration name="arrays24" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Arrays.arrays24" />
       <module name="java_ practice" />
       <extension name="coverage">
         <pattern>
@@ -66,12 +71,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="arrays28" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Arrays.arrays28" />
+    <configuration name="bubbelShort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SortingS.bubbelShort" />
       <module name="java_ practice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Arrays.*" />
+          <option name="PATTERN" value="SortingS.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -79,12 +84,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="arrays29" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Arrays.arrays29" />
+    <configuration name="bubbleShort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SortingS.bubbleShort" />
       <module name="java_ practice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Arrays.*" />
+          <option name="PATTERN" value="SortingS.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -92,12 +97,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="arrays3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Arrays.arrays3" />
+    <configuration name="insertionSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SortingS.insertionSort" />
       <module name="java_ practice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Arrays.*" />
+          <option name="PATTERN" value="SortingS.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -105,12 +110,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="arrays30" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Arrays.arrays30" />
+    <configuration name="selectionSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SortingS.selectionSort" />
       <module name="java_ practice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Arrays.*" />
+          <option name="PATTERN" value="SortingS.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -120,11 +125,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.arrays30" />
-        <item itemvalue="Application.arrays29" />
-        <item itemvalue="Application.arrays3" />
-        <item itemvalue="Application.arrays28" />
-        <item itemvalue="Application.arrays27" />
+        <item itemvalue="Application.insertionSort" />
+        <item itemvalue="Application.selectionSort" />
+        <item itemvalue="Application.bubbleShort" />
+        <item itemvalue="Application.bubbelShort" />
+        <item itemvalue="Application.arrays24" />
       </list>
     </recent_temporary>
   </component>
@@ -340,7 +345,21 @@
       <option name="project" value="LOCAL" />
       <updated>1663594011862</updated>
     </task>
-    <option name="localTasksCounter" value="30" />
+    <task id="LOCAL-00030" summary="practice">
+      <created>1663600068922</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1663600068922</updated>
+    </task>
+    <task id="LOCAL-00031" summary="practice">
+      <created>1663698857353</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1663698857353</updated>
+    </task>
+    <option name="localTasksCounter" value="32" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -402,7 +421,17 @@
     </breakpoint-manager>
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
-    <expand />
+    <expand>
+      <path>
+        <item name="java_ practice" type="b2602c69:ProjectViewProjectNode" />
+        <item name="java_ practice" type="462c0819:PsiDirectoryNode" />
+      </path>
+      <path>
+        <item name="java_ practice" type="b2602c69:ProjectViewProjectNode" />
+        <item name="java_ practice" type="462c0819:PsiDirectoryNode" />
+        <item name="src" type="462c0819:PsiDirectoryNode" />
+      </path>
+    </expand>
     <select />
   </component>
 </project>
