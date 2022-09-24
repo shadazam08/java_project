@@ -9,24 +9,23 @@ public class insertionSort {
         }
         System.out.println();
     }
-
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int n = sc.nextInt();
         int[] arr = new int[n];
+//        int[] arr = {7,8,2,3,1};
         for (int i = 0; i < n; i++) {
             arr[i] = sc.nextInt();
         }
-//        int[] arr = {7,8,2,3,1};
 //        Insertion sort
         for (int i = 1; i < arr.length; i++) {
-            int sorted = arr[i];
+            int current = arr[i];
             int j = i - 1;
-            while (j >= 0 && sorted < arr[j]) {
+            while (j >= 0 && current < arr[j]) {
                 arr[j + 1] = arr[j];
                 j--;
             }
-            arr[j + 1] = sorted;
+            arr[j + 1] = current;
         }
         printArrays(arr);
     }
