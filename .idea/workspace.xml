@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="dc16727e-95ba-4cec-8479-add4f591cf64" name="Changes" comment="practice">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SortingS/insertionSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SortingS/insertionSort.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,6 +20,7 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PUSH_AUTO_UPDATE" value="true" />
     <option name="PUSH_TAGS">
       <GitPushTagMode>
         <option name="argument" value="--tags" />
@@ -51,20 +51,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.keymap&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.arrays30">
-    <configuration name="arrays27" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Arrays.arrays27" />
-      <module name="java_ practice" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Arrays.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.pairSum">
     <configuration name="arrays28" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Arrays.arrays28" />
       <module name="java_ practice" />
@@ -117,20 +104,33 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="pairSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test.pairSum" />
+      <module name="java_ practice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.pairSum" />
         <item itemvalue="Application.arrays30" />
         <item itemvalue="Application.arrays29" />
         <item itemvalue="Application.arrays3" />
         <item itemvalue="Application.arrays28" />
-        <item itemvalue="Application.arrays27" />
       </list>
     </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="26c47e74-d1c4-42d6-9906-2c4033ff2d48" name="Changes" comment="" />
+      <changelist id="dc16727e-95ba-4cec-8479-add4f591cf64" name="Changes" comment="practice" />
       <created>1661871711364</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
@@ -346,7 +346,14 @@
       <option name="project" value="LOCAL" />
       <updated>1664034276099</updated>
     </task>
-    <option name="localTasksCounter" value="31" />
+    <task id="LOCAL-00031" summary="practice">
+      <created>1664108491077</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1664108491077</updated>
+    </task>
+    <option name="localTasksCounter" value="32" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
