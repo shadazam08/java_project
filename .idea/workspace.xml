@@ -5,9 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="dc16727e-95ba-4cec-8479-add4f591cf64" name="Changes" comment="practice">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MOCK_TEST_QUESTION/sorted_and_pivoted_array.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MOCK_TEST_QUESTION/sorted_and_pivoted_array.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SortingS/question" beforeDir="false" afterPath="$PROJECT_DIR$/src/SortingS/question" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Searching/BinarySearch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Searching/BinarySearch.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,11 +53,11 @@
 }</component>
   <component name="RunManager" selected="Application.NationalFlagProblem">
     <configuration name="NationalFlagProblem" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MOCK_TEST_QUESTION.NationalFlagProblem" />
+      <option name="MAIN_CLASS_NAME" value="MockTestQuestion.NationalFlagProblem" />
       <module name="java_ practice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="MOCK_TEST_QUESTION.*" />
+          <option name="PATTERN" value="MockTestQuestion.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -81,11 +79,11 @@
       </method>
     </configuration>
     <configuration name="matrixSearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MOCK_TEST_QUESTION.matrixSearch" />
+      <option name="MAIN_CLASS_NAME" value="MockTestQuestion.matrixSearch" />
       <module name="java_ practice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="MOCK_TEST_QUESTION.*" />
+          <option name="PATTERN" value="MockTestQuestion.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -107,11 +105,11 @@
       </method>
     </configuration>
     <configuration name="sorted_and_pivoted_array" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MOCK_TEST_QUESTION.sorted_and_pivoted_array" />
+      <option name="MAIN_CLASS_NAME" value="MockTestQuestion.sorted_and_pivoted_array" />
       <module name="java_ practice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="MOCK_TEST_QUESTION.*" />
+          <option name="PATTERN" value="MockTestQuestion.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -376,7 +374,21 @@
       <option name="project" value="LOCAL" />
       <updated>1664692828789</updated>
     </task>
-    <option name="localTasksCounter" value="35" />
+    <task id="LOCAL-00035" summary="practice">
+      <created>1664723770234</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1664723770234</updated>
+    </task>
+    <task id="LOCAL-00036" summary="practice">
+      <created>1664723908837</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1664723908837</updated>
+    </task>
+    <option name="localTasksCounter" value="37" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
