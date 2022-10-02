@@ -1,6 +1,6 @@
 /* Java program to search an element
 in a sorted and pivoted array*/
-package MOCK_TEST_QUESTION;
+package MockTestQuestion;
 public class sorted_and_pivoted_array {
     /* Searches an element key in a
     pivoted sorted array arrp[]
