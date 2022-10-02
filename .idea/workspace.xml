@@ -53,11 +53,11 @@
 }</component>
   <component name="RunManager" selected="Application.NationalFlagProblem">
     <configuration name="NationalFlagProblem" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MockTestQuestion.NationalFlagProblem" />
+      <option name="MAIN_CLASS_NAME" value="MockTestQuestions.NationalFlagProblem" />
       <module name="java_ practice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="MockTestQuestion.*" />
+          <option name="PATTERN" value="MockTestQuestions.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -79,11 +79,11 @@
       </method>
     </configuration>
     <configuration name="matrixSearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MockTestQuestion.matrixSearch" />
+      <option name="MAIN_CLASS_NAME" value="MockTestQuestions.matrixSearch" />
       <module name="java_ practice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="MockTestQuestion.*" />
+          <option name="PATTERN" value="MockTestQuestions.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -105,11 +105,11 @@
       </method>
     </configuration>
     <configuration name="sorted_and_pivoted_array" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MockTestQuestion.sorted_and_pivoted_array" />
+      <option name="MAIN_CLASS_NAME" value="MockTestQuestions.sorted_and_pivoted_array" />
       <module name="java_ practice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="MockTestQuestion.*" />
+          <option name="PATTERN" value="MockTestQuestions.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
