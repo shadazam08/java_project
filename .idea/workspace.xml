@@ -51,20 +51,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.keymap&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.pairSum">
-    <configuration name="arrays28" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Arrays.arrays28" />
-      <module name="java_ practice" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Arrays.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.sorted_and_pivoted_array">
     <configuration name="arrays29" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Arrays.arrays29" />
       <module name="java_ practice" />
@@ -117,13 +104,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="sorted_and_pivoted_array" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MOCK_TEST_QUESTION.sorted_and_pivoted_array" />
+      <module name="java_ practice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="MOCK_TEST_QUESTION.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.sorted_and_pivoted_array" />
         <item itemvalue="Application.pairSum" />
         <item itemvalue="Application.arrays30" />
         <item itemvalue="Application.arrays29" />
         <item itemvalue="Application.arrays3" />
-        <item itemvalue="Application.arrays28" />
       </list>
     </recent_temporary>
   </component>
@@ -353,7 +353,14 @@
       <option name="project" value="LOCAL" />
       <updated>1664108491077</updated>
     </task>
-    <option name="localTasksCounter" value="32" />
+    <task id="LOCAL-00032" summary="practice">
+      <created>1664637980267</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1664637980267</updated>
+    </task>
+    <option name="localTasksCounter" value="33" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
