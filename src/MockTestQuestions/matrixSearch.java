@@ -1,4 +1,4 @@
-package MockTestQuestion;
+package MockTestQuestions;
 import java.util.Scanner;
 public class matrixSearch {
     static int matrixSearchs(int[][] arr, int n, int k){

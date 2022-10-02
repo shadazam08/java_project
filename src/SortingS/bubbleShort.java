@@ -1,7 +1,5 @@
 package SortingS;
-
 import java.util.Scanner;
-
 public class bubbleShort {
     public static void printArray(int[] arr) {
         for (int i = 0; i < arr.length; i++) {
@@ -9,7 +7,6 @@ public class bubbleShort {
         }
         System.out.println();
     }
-
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int n = sc.nextInt();

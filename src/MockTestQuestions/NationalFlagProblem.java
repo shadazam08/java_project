@@ -1,4 +1,4 @@
-package MockTestQuestion;
+package MockTestQuestions;
 import java.util.Scanner;
 public class NationalFlagProblem {
     static void sortedArray(int[] arr){
