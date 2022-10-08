@@ -33,6 +33,7 @@ public class mergeSort {
         if(start >= last) {
             return;
         }
+//        int mid = start + last /2;
             int mid = start + (last - start) / 2;
             sort(arr, start, mid);
             sort(arr, mid+1, last);
