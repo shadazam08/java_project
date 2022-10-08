@@ -12,7 +12,7 @@ public class mergeSort {
         int index1 = start;
         int index2 = mid+1;
         int x = 0;
-        while(index1<=mid && index2 <=last){
+        while(index1 <= mid && index2 <= last){
             if(arr[index1] <= arr[index2]){
                 merged[x++] = arr[index1++];
             }else{
