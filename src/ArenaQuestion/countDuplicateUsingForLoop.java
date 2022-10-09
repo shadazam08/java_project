@@ -1,8 +1,7 @@
 package ArenaQuestion;
-import java.util.Scanner;
+//import java.util.Scanner;
 public class countDuplicateUsingForLoop {
     static void countDuplicates(int[] arr){
-        int count = 0;
         int[] temp = new int[arr.length];
         for(int i = 0; i < arr.length; i++){
             temp[i] =0;

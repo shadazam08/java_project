@@ -6,9 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="dc16727e-95ba-4cec-8479-add4f591cf64" name="Changes" comment="practice">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Searching/BinarySearch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Searching/BinarySearch.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SortingS/mergeShort1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SortingS/mergeTwoArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SortingS/mergeSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SortingS/mergeSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ArenaQuestion/countDuplicateUsingForLoop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ArenaQuestion/countDuplicateUsingForLoop.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,6 +31,7 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/ArenaQuestion/countDuplicateUsingForLoop.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/Arrays/arrays4.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/SortingS/mergeSort1.java" root0="SKIP_INSPECTION" />
   </component>
@@ -52,23 +51,10 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "last_opened_file_path": "F:/Newton_school/java_ practice",
-    "settings.editor.selected.configurable": "advanced.settings"
+    "settings.editor.selected.configurable": "Console"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.mergeSort1">
-    <configuration name="binarySearch1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Searching.binarySearch1" />
-      <module name="java_ practice" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Searching.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.countDuplicateUsingForLoop">
     <configuration name="binarySearchAndMergeShort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ArenaQuestion.binarySearchAndMergeShort" />
       <module name="java_ practice" />
@@ -121,13 +107,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="searchAndSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ArenaQuestion.searchAndSort" />
+      <module name="java_ practice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ArenaQuestion.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.countDuplicateUsingForLoop" />
+        <item itemvalue="Application.searchAndSort" />
         <item itemvalue="Application.mergeSort1" />
         <item itemvalue="Application.countUniqueNumber" />
-        <item itemvalue="Application.countDuplicateUsingForLoop" />
         <item itemvalue="Application.binarySearchAndMergeShort" />
-        <item itemvalue="Application.binarySearch1" />
       </list>
     </recent_temporary>
   </component>
@@ -434,7 +433,14 @@
       <option name="project" value="LOCAL" />
       <updated>1665233037249</updated>
     </task>
-    <option name="localTasksCounter" value="43" />
+    <task id="LOCAL-00043" summary="practice">
+      <created>1665254558515</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1665254558515</updated>
+    </task>
+    <option name="localTasksCounter" value="44" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
