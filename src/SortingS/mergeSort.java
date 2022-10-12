@@ -2,8 +2,8 @@ package SortingS;
 import java.util.*;
 public class mergeSort {
     public static void printArray(int[] arr){
-        for(int i=0; i<arr.length; i++){
-            System.out.print(arr[i]+ " ");
+        for (int j : arr) {
+            System.out.print(j + " ");
         }
         System.out.println();
     }
@@ -43,8 +43,8 @@ public class mergeSort {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int n = sc.nextInt();
-//        int arr[] = {7,8,2,3,1};
-//        int n = arr.length;
+        /* int arr[] = {7,8,2,3,1};
+        int n = arr.length;**/
         int[] arr = new int[n];
         for(int i=0; i<n; i++){
             arr[i] = sc.nextInt();

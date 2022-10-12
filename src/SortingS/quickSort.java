@@ -20,14 +20,14 @@ public class quickSort {
         swap(arr, i + 1, high);
         return (i + 1);
     }
-    static void quickSort(int[] arr, int low, int high)
+    static void quickSorts(int[] arr, int low, int high)
     {
         if (low >= high) {
             return;
         }
             int pi = partition(arr, low, high);
-            quickSort(arr, low, pi - 1);
-            quickSort(arr, pi + 1, high);
+            quickSorts(arr, low, pi - 1);
+            quickSorts(arr, pi + 1, high);
     }
     static void printArray(int[] arr, int size)
     {
@@ -38,7 +38,7 @@ public class quickSort {
     public static void main(String[] args){
         int[] arr = { 10, 7, 8, 9, 1, 5 };
         int n = arr.length;
-        quickSort(arr, 0, n - 1);
+        quickSorts(arr, 0, n - 1);
         System.out.println("Sorted array: ");
         printArray(arr, n);
     }

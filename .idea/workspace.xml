@@ -6,7 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="dc16727e-95ba-4cec-8479-add4f591cf64" name="Changes" comment="practice">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ArenaQuestion/countDuplicateUsingForLoop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ArenaQuestion/countDuplicateUsingForLoop.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SortingS/mergeSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SortingS/mergeSort.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,17 +46,17 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "F:/Newton_school/java_ practice",
-    "settings.editor.selected.configurable": "Console"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;F:/Newton_school/java_ practice&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;Console&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Application.countDuplicateUsingForLoop">
-    <configuration name="binarySearchAndMergeShort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ArenaQuestion.binarySearchAndMergeShort" />
+}</component>
+  <component name="RunManager" selected="Application.mergeSort">
+    <configuration name="countDuplicate" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ArenaQuestion.countDuplicate" />
       <module name="java_ practice" />
       <extension name="coverage">
         <pattern>
@@ -94,8 +94,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="mergeSort1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SortingS.mergeSort1" />
+    <configuration name="mergeSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SortingS.mergeSort" />
       <module name="java_ practice" />
       <extension name="coverage">
         <pattern>
@@ -122,11 +122,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.mergeSort" />
+        <item itemvalue="Application.countUniqueNumber" />
+        <item itemvalue="Application.countDuplicate" />
         <item itemvalue="Application.countDuplicateUsingForLoop" />
         <item itemvalue="Application.searchAndSort" />
-        <item itemvalue="Application.mergeSort1" />
-        <item itemvalue="Application.countUniqueNumber" />
-        <item itemvalue="Application.binarySearchAndMergeShort" />
       </list>
     </recent_temporary>
   </component>
@@ -440,7 +440,14 @@
       <option name="project" value="LOCAL" />
       <updated>1665254558515</updated>
     </task>
-    <option name="localTasksCounter" value="44" />
+    <task id="LOCAL-00044" summary="practice">
+      <created>1665300119882</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1665300119882</updated>
+    </task>
+    <option name="localTasksCounter" value="45" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -497,11 +504,6 @@
           <url>file://$PROJECT_DIR$/src/Arrays/arrays29.java</url>
           <line>17</line>
           <option name="timeStamp" value="9" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/ArenaQuestion/countUniqueNumber.java</url>
-          <line>6</line>
-          <option name="timeStamp" value="15" />
         </line-breakpoint>
         <breakpoint enabled="true" type="java-exception">
           <properties class="java.lang.ArrayIndexOutOfBoundsException" package="java.lang" />
