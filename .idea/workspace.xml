@@ -5,8 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="dc16727e-95ba-4cec-8479-add4f591cf64" name="Changes" comment="practice">
-      <change afterPath="$PROJECT_DIR$/src/ArenaQuestion/gfrt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ArenaQuestion/averageWithoutForLoop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ArenaQuestion/differenceBetweenMaxAndMinElement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ArenaQuestion/test" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,12 +53,12 @@
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;last_opened_file_path&quot;: &quot;F:/Newton_school/java_ practice&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;Console&quot;
+    &quot;settings.editor.selected.configurable&quot;: &quot;vcs.Git&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.mergeSort">
-    <configuration name="countDuplicate" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ArenaQuestion.countDuplicate" />
+  <component name="RunManager" selected="Application.differenceBetweenMaxAndMinElement">
+    <configuration name="averageWithoutForLoop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ArenaQuestion.averageWithoutForLoop" />
       <module name="java_ practice" />
       <extension name="coverage">
         <pattern>
@@ -68,8 +70,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="countDuplicateUsingForLoop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ArenaQuestion.countDuplicateUsingForLoop" />
+    <configuration name="countDuplicate" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ArenaQuestion.countDuplicate" />
       <module name="java_ practice" />
       <extension name="coverage">
         <pattern>
@@ -94,6 +96,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="differenceBetweenMaxAndMinElement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ArenaQuestion.differenceBetweenMaxAndMinElement" />
+      <module name="java_ practice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ArenaQuestion.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="mergeSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="SortingS.mergeSort" />
       <module name="java_ practice" />
@@ -107,26 +122,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="searchAndSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ArenaQuestion.searchAndSort" />
-      <module name="java_ practice" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ArenaQuestion.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.differenceBetweenMaxAndMinElement" />
+        <item itemvalue="Application.averageWithoutForLoop" />
         <item itemvalue="Application.mergeSort" />
         <item itemvalue="Application.countUniqueNumber" />
         <item itemvalue="Application.countDuplicate" />
-        <item itemvalue="Application.countDuplicateUsingForLoop" />
-        <item itemvalue="Application.searchAndSort" />
       </list>
     </recent_temporary>
   </component>
@@ -461,7 +463,14 @@
       <option name="project" value="LOCAL" />
       <updated>1665593117462</updated>
     </task>
-    <option name="localTasksCounter" value="47" />
+    <task id="LOCAL-00047" summary="practice">
+      <created>1665593627394</created>
+      <option name="number" value="00047" />
+      <option name="presentableId" value="LOCAL-00047" />
+      <option name="project" value="LOCAL" />
+      <updated>1665593627394</updated>
+    </task>
+    <option name="localTasksCounter" value="48" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
