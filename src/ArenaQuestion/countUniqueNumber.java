@@ -13,6 +13,7 @@ public class countUniqueNumber {
             if(count == 1){
                 System.out.print(A[i] + " ");
             }
+            System.out.println();
         }
     }
 }

@@ -32,3 +32,10 @@ public class BinarySearch {
             System.out.println("Element found at index "+ result);
     }
 }
+
+//1,2,2,3,3,3,4,4,4,4,5
+//1=1
+//2=2
+//3=3
+//4=4
+//5=1

@@ -42,9 +42,9 @@ public class countDuplicate {
         HashMap<Integer, Integer> dup = fDuplicate(arr, n);
 //        using forEach
         for(Map.Entry<Integer, Integer> entry : dup.entrySet()){
-            if(entry.getValue() > 1){
+//            if(entry.getValue() > 1){
                 System.out.println(entry.getKey() + " " + entry.getValue());
-            }
+//            }
         }
     }
 }
