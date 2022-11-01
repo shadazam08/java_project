@@ -6,12 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="dc16727e-95ba-4cec-8479-add4f591cf64" name="Changes" comment="practice">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ArenaQuestion/averageWithForLoop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ArenaQuestion/averageWithForLoop.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ArenaQuestion/averageWithoutLoop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ArenaQuestion/averageWithoutLoop.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ArenaQuestion/countDuplicate.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ArenaQuestion/countDuplicate.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ArenaQuestion/countDuplicateUsingForLoop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ArenaQuestion/countDuplicateUsingForLoop.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ArenaQuestion/countUniqueNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ArenaQuestion/countUniqueNumber.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Searching/BinarySearch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Searching/BinarySearch.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/RecurtionsQuestion/factorialNumberCopy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/RecurtionsQuestion/factorialNumberCopy.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,7 +54,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;vcs.Git&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.factorialNumberCopy">
+  <component name="RunManager" selected="Application.powerXofN">
     <configuration name="factorialNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="RecurtionsQuestion.factorialNumber" />
       <module name="java_ practice" />
@@ -99,12 +94,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="findTriplets" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ArenaQuestion.findTriplets" />
+    <configuration name="fibonacciSequenceCopy" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="RecurtionsQuestion.fibonacciSequenceCopy" />
       <module name="java_ practice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ArenaQuestion.*" />
+          <option name="PATTERN" value="RecurtionsQuestion.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -112,12 +107,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="searchCount" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Searching.searchCount" />
+    <configuration name="powerXofN" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="RecurtionsQuestion.powerXofN" />
       <module name="java_ practice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Searching.*" />
+          <option name="PATTERN" value="RecurtionsQuestion.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -127,11 +122,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.powerXofN" />
         <item itemvalue="Application.factorialNumberCopy" />
+        <item itemvalue="Application.fibonacciSequenceCopy" />
         <item itemvalue="Application.factorialNumber" />
         <item itemvalue="Application.fibonacciSequence" />
-        <item itemvalue="Application.searchCount" />
-        <item itemvalue="Application.findTriplets" />
       </list>
     </recent_temporary>
   </component>
@@ -143,20 +138,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1661871711364</updated>
-    </task>
-    <task id="LOCAL-00001" summary="practice">
-      <created>1661872483228</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1661872483228</updated>
-    </task>
-    <task id="LOCAL-00002" summary="practice">
-      <created>1662182415713</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1662182415713</updated>
     </task>
     <task id="LOCAL-00003" summary="practice">
       <created>1662182585581</created>
@@ -487,7 +468,21 @@
       <option name="project" value="LOCAL" />
       <updated>1665874481910</updated>
     </task>
-    <option name="localTasksCounter" value="50" />
+    <task id="LOCAL-00050" summary="practice">
+      <created>1667020180397</created>
+      <option name="number" value="00050" />
+      <option name="presentableId" value="LOCAL-00050" />
+      <option name="project" value="LOCAL" />
+      <updated>1667020180397</updated>
+    </task>
+    <task id="LOCAL-00051" summary="practice">
+      <created>1667020204075</created>
+      <option name="number" value="00051" />
+      <option name="presentableId" value="LOCAL-00051" />
+      <option name="project" value="LOCAL" />
+      <updated>1667020204075</updated>
+    </task>
+    <option name="localTasksCounter" value="52" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
