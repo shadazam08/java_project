@@ -5,7 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="dc16727e-95ba-4cec-8479-add4f591cf64" name="Changes" comment="practice">
-      <change afterPath="$PROJECT_DIR$/src/RecurtionsQuestion/reverseArray.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -54,13 +53,13 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;vcs.Git&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.reverseArray">
-    <configuration name="factorialNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="RecurtionsQuestion.factorialNumber" />
+  <component name="RunManager" selected="Application.listSecond">
+    <configuration name="LLQuestion" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ArenaQuestion.linkedList.LLQuestion" />
       <module name="java_ practice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="RecurtionsQuestion.*" />
+          <option name="PATTERN" value="ArenaQuestion.linkedList.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -68,12 +67,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="factorialNumberCopy" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="RecurtionsQuestion.factorialNumberCopy" />
+    <configuration name="listSecond" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ArenaQuestion.linkedList.listSecond" />
       <module name="java_ practice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="RecurtionsQuestion.*" />
+          <option name="PATTERN" value="ArenaQuestion.linkedList.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -81,12 +80,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="fibonacciSequenceCopy" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="RecurtionsQuestion.fibonacciSequenceCopy" />
+    <configuration name="moveNegativeArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="advanceJava.moveNegativeArray" />
       <module name="java_ practice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="RecurtionsQuestion.*" />
+          <option name="PATTERN" value="advanceJava.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -94,12 +93,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="powerXofN" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="RecurtionsQuestion.powerXofN" />
+    <configuration name="nationalFlageArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="advanceJava.nationalFlageArray" />
       <module name="java_ practice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="RecurtionsQuestion.*" />
+          <option name="PATTERN" value="advanceJava.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -107,12 +106,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="reverseArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="RecurtionsQuestion.reverseArray" />
+    <configuration name="unionIntersectio" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="advanceJava.unionIntersectio" />
       <module name="java_ practice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="RecurtionsQuestion.*" />
+          <option name="PATTERN" value="advanceJava.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -122,11 +121,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.reverseArray" />
-        <item itemvalue="Application.powerXofN" />
-        <item itemvalue="Application.factorialNumberCopy" />
-        <item itemvalue="Application.fibonacciSequenceCopy" />
-        <item itemvalue="Application.factorialNumber" />
+        <item itemvalue="Application.listSecond" />
+        <item itemvalue="Application.LLQuestion" />
+        <item itemvalue="Application.unionIntersectio" />
+        <item itemvalue="Application.moveNegativeArray" />
+        <item itemvalue="Application.nationalFlageArray" />
       </list>
     </recent_temporary>
   </component>
@@ -138,13 +137,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1661871711364</updated>
-    </task>
-    <task id="LOCAL-00005" summary="practice">
-      <created>1662186406439</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1662186406439</updated>
     </task>
     <task id="LOCAL-00006" summary="practice">
       <created>1662186849389</created>
@@ -482,7 +474,14 @@
       <option name="project" value="LOCAL" />
       <updated>1667402863720</updated>
     </task>
-    <option name="localTasksCounter" value="54" />
+    <task id="LOCAL-00054" summary="practice">
+      <created>1667402917962</created>
+      <option name="number" value="00054" />
+      <option name="presentableId" value="LOCAL-00054" />
+      <option name="project" value="LOCAL" />
+      <updated>1667402917962</updated>
+    </task>
+    <option name="localTasksCounter" value="55" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
