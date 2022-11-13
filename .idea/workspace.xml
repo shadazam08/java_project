@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="dc16727e-95ba-4cec-8479-add4f591cf64" name="Changes" comment="practice">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ArenaQuestion/linkedList/LLQuestion.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ArenaQuestion/linkedList/LLQuestion.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,11 +32,15 @@
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/src/ArenaQuestion/countDuplicateUsingForLoop.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/ArenaQuestion/linkedList/linkListAddLast.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/Arrays/arrays4.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/SortingS/mergeSort1.java" root0="SKIP_INSPECTION" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
   </component>
   <component name="ProjectId" id="2E53dTlt7UHiZMnE8EPdP74FkZi" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -53,9 +58,35 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;vcs.Git&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.listSecond">
+  <component name="RunManager" selected="Application.linkListAddLast">
     <configuration name="LLQuestion" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ArenaQuestion.linkedList.LLQuestion" />
+      <module name="java_ practice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ArenaQuestion.linkedList.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="linkListAddFirst" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ArenaQuestion.linkedList.linkListAddFirst" />
+      <module name="java_ practice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ArenaQuestion.linkedList.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="linkListAddLast" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ArenaQuestion.linkedList.linkListAddLast" />
       <module name="java_ practice" />
       <extension name="coverage">
         <pattern>
@@ -80,32 +111,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="moveNegativeArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="advanceJava.moveNegativeArray" />
-      <module name="java_ practice" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="advanceJava.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="nationalFlageArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="advanceJava.nationalFlageArray" />
-      <module name="java_ practice" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="advanceJava.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="unionIntersectio" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="advanceJava.unionIntersectio" />
       <module name="java_ practice" />
@@ -121,11 +126,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.linkListAddLast" />
+        <item itemvalue="Application.linkListAddFirst" />
         <item itemvalue="Application.listSecond" />
         <item itemvalue="Application.LLQuestion" />
         <item itemvalue="Application.unionIntersectio" />
-        <item itemvalue="Application.moveNegativeArray" />
-        <item itemvalue="Application.nationalFlageArray" />
       </list>
     </recent_temporary>
   </component>
@@ -137,13 +142,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1661871711364</updated>
-    </task>
-    <task id="LOCAL-00006" summary="practice">
-      <created>1662186849389</created>
-      <option name="number" value="00006" />
-      <option name="presentableId" value="LOCAL-00006" />
-      <option name="project" value="LOCAL" />
-      <updated>1662186849389</updated>
     </task>
     <task id="LOCAL-00007" summary="practice">
       <created>1662187739151</created>
@@ -481,7 +479,14 @@
       <option name="project" value="LOCAL" />
       <updated>1667402917962</updated>
     </task>
-    <option name="localTasksCounter" value="55" />
+    <task id="LOCAL-00055" summary="practice">
+      <created>1668233106862</created>
+      <option name="number" value="00055" />
+      <option name="presentableId" value="LOCAL-00055" />
+      <option name="project" value="LOCAL" />
+      <updated>1668233106862</updated>
+    </task>
+    <option name="localTasksCounter" value="56" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

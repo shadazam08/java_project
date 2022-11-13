@@ -1,5 +1,4 @@
 package ArenaQuestion.linkedList;
-
 public class LLQuestion {
     Node head;
     private int size;
