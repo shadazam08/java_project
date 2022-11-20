@@ -56,7 +56,7 @@ public class LLQuestion {
             System.out.println("The list is empty");
             return;
         }
-        size--;
+//        size--;
         head = head.next;
     }
 //    delete last
@@ -65,7 +65,7 @@ public class LLQuestion {
             System.out.println("the list is empty");
             return;
         }
-        size--;
+//        size--;
         if(head.next == null){
             head = null;
             return;

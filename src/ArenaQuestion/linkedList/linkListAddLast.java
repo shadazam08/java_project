@@ -1,16 +1,16 @@
 package ArenaQuestion.linkedList;
-
 public class linkListAddLast {
+    Node head;
     class Node{
-        String data;
+        int data;
         Node next;
-        Node(String data){
+        Node(int data){
             this.data = data;
             this.next = null;
         }
     }
-    Node head;
-    public void addLast(String data){
+//    Add Last
+    public void addLast(int data){
         Node newNode = new Node(data);
         if(head == null){
             head = newNode;
@@ -22,27 +22,26 @@ public class linkListAddLast {
         }
         currNode.next = newNode;
     }
+//    print List
     public void printList(){
         if(head == null){
-            System.out.println("List is Empty");
+            System.out.println("Empty List");
             return;
         }
         Node currNode = head;
         while (currNode != null){
-            System.out.print(currNode.data + "->");
+            System.out.print(currNode.data + " -> ");
             currNode = currNode.next;
         }
-        System.out.println("NULL");
+        System.out.println("Null");
     }
     public static void main(String[] args) {
         linkListAddLast list = new linkListAddLast();
-        list.addLast("A");
-        list.addLast("B");
-        list.addLast("C");
-        list.addLast("D");
-        list.addLast("E");
-        list.addLast("F");
-        list.addLast("G");
+        list.addLast(4);
+        list.addLast(1);
+        list.addLast(2);
+        list.addLast(3);
+        list.addLast(5);
         list.printList();
     }
 }

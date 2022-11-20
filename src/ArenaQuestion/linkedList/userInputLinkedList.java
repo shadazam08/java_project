@@ -1,8 +1,7 @@
 package ArenaQuestion.linkedList;
-
-public class linkListAddFirst {
-    Node head;
-    class Node{
+import java.util.*;
+public class userInputLinkedList {
+    static class Node{
         int data;
         Node next;
         Node(int data){
@@ -10,7 +9,8 @@ public class linkListAddFirst {
             this.next = null;
         }
     }
-//    Add list first position;
+    Node head;
+//    add first
     public void firstAdd(int data){
         Node newNode = new Node(data);
         if(head == null){
@@ -20,25 +20,26 @@ public class linkListAddFirst {
         newNode.next = head;
         head = newNode;
     }
+//    print
     public void printList(){
         if(head == null){
-            System.out.println("Empty list");
+            System.out.println("LinkList is empty");
             return;
         }
-        Node curNode = head;
-        while (curNode != null){
-            System.out.print(curNode.data + " -> ");
-            curNode = curNode.next;
+        Node cur = head;
+        while (cur != null){
+            System.out.print(cur.data + " -> ");
+            cur =  cur.next;
         }
-        System.out.println("NULL");
+        System.out.println("null");
     }
     public static void main(String[] args) {
-        linkListAddFirst list = new linkListAddFirst();
-        list.firstAdd(1);
-        list.firstAdd(2);
-        list.firstAdd(3);
-        list.firstAdd(4);
-        list.firstAdd(5);
+        userInputLinkedList list = new userInputLinkedList();
+        Scanner sc = new Scanner(System.in);
+        int n = sc.nextInt();
+        for(int i=1; i<=n; i++){
+            list.firstAdd(i);
+        }
         list.printList();
 
     }
