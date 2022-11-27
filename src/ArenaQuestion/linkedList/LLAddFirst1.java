@@ -31,7 +31,6 @@ public class LLAddFirst1 {
         }
         System.out.print("null");
     }
-
     public static void main(String[] args) {
         LLAddFirst1 list = new LLAddFirst1();
         list.addFirsts(1);
