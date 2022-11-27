@@ -4,7 +4,18 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dc16727e-95ba-4cec-8479-add4f591cf64" name="Changes" comment="practice" />
+    <list default="true" id="dc16727e-95ba-4cec-8479-add4f591cf64" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/ArenaQuestion/Strings/reverseStrings1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ArenaQuestion/Strings/reverseStrings2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ArenaQuestion/Strings/reverseStrings3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ArenaQuestion/Strings/reverseStrings4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ArenaQuestion/Strings/reverseStrings5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ArenaQuestion/Strings/stringChar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ArenaQuestion/Strings/stringsChar1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ArenaQuestion/linkedList/LLAddFirst1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ArenaQuestion/linkedList/LLAddLast1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -48,18 +59,18 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "full.screen.before.presentation.mode": "false",
-    "last_opened_file_path": "F:/Newton_school/java_ practice",
-    "settings.editor.selected.configurable": "project.propVCSSupport.Confirmation"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;full.screen.before.presentation.mode&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;F:/Newton_school/java_ practice&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.general&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Application.reverseStrings">
-    <configuration name="LLAddFirst" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ArenaQuestion.linkedList.LLAddFirst" />
+}</component>
+  <component name="RunManager" selected="Application.LLAddLast1">
+    <configuration name="LLAddFirst1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ArenaQuestion.linkedList.LLAddFirst1" />
       <module name="java_ practice" />
       <extension name="coverage">
         <pattern>
@@ -71,8 +82,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LLAddLast" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ArenaQuestion.linkedList.LLAddLast" />
+    <configuration name="LLAddLast1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ArenaQuestion.linkedList.LLAddLast1" />
       <module name="java_ practice" />
       <extension name="coverage">
         <pattern>
@@ -84,21 +95,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LLQuestion" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ArenaQuestion.linkedList.LLQuestion" />
-      <module name="java_ practice" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ArenaQuestion.linkedList.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="reverseStrings" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ArenaQuestion.Strings.reverseStrings" />
+    <configuration name="reverseStrings5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ArenaQuestion.Strings.reverseStrings5" />
       <module name="java_ practice" />
       <extension name="coverage">
         <pattern>
@@ -110,8 +108,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="stringsDeclare" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ArenaQuestion.Strings.stringsDeclare" />
+    <configuration name="stringChar" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ArenaQuestion.Strings.stringChar" />
+      <module name="java_ practice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ArenaQuestion.Strings.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="stringsChar1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ArenaQuestion.Strings.stringsChar1" />
       <module name="java_ practice" />
       <extension name="coverage">
         <pattern>
@@ -125,11 +136,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.reverseStrings" />
-        <item itemvalue="Application.stringsDeclare" />
-        <item itemvalue="Application.LLAddLast" />
-        <item itemvalue="Application.LLAddFirst" />
-        <item itemvalue="Application.LLQuestion" />
+        <item itemvalue="Application.LLAddLast1" />
+        <item itemvalue="Application.LLAddFirst1" />
+        <item itemvalue="Application.reverseStrings5" />
+        <item itemvalue="Application.stringsChar1" />
+        <item itemvalue="Application.stringChar" />
       </list>
     </recent_temporary>
   </component>
@@ -141,13 +152,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1661871711364</updated>
-    </task>
-    <task id="LOCAL-00010" summary="practice">
-      <created>1662282636298</created>
-      <option name="number" value="00010" />
-      <option name="presentableId" value="LOCAL-00010" />
-      <option name="project" value="LOCAL" />
-      <updated>1662282636345</updated>
     </task>
     <task id="LOCAL-00011" summary="practice">
       <created>1662311820197</created>
@@ -485,7 +489,14 @@
       <option name="project" value="LOCAL" />
       <updated>1669488998922</updated>
     </task>
-    <option name="localTasksCounter" value="59" />
+    <task id="LOCAL-00059" summary="practice">
+      <created>1669489196473</created>
+      <option name="number" value="00059" />
+      <option name="presentableId" value="LOCAL-00059" />
+      <option name="project" value="LOCAL" />
+      <updated>1669489196473</updated>
+    </task>
+    <option name="localTasksCounter" value="60" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
