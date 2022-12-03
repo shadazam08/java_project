@@ -1,4 +1,4 @@
-package ArenaQuestion.linkedList;
+package MockTestQuestions.linkedList;
 public class linkListAddLast {
     Node head;
     class Node{

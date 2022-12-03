@@ -1,4 +1,4 @@
-package ArenaQuestion.linkedList;
+package MockTestQuestions.linkedList;
 public class LLQuestion {
     Node head;
     private int size;

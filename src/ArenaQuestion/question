@@ -1,9 +1,0 @@
-check if one string is a rotation string
-input s1: ABCD s2: CDAB
-output: true
-
-
-
-# check if two string are anagrams of each other
-s1: ABCD s2: CDBAC
-output:true

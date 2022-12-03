@@ -1,4 +1,4 @@
-package ArenaQuestion.Strings;
+package MockTestQuestions.Strings;
 import java.util.Scanner;
 public class reverseStrings1 {
     public static void main(String[] args) {

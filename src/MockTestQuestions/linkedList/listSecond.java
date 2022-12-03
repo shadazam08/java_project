@@ -1,4 +1,4 @@
-package ArenaQuestion.linkedList;
+package MockTestQuestions.linkedList;
 
 import java.util.LinkedList;
 

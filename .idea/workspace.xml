@@ -4,10 +4,37 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dc16727e-95ba-4cec-8479-add4f591cf64" name="Changes" comment="practice">
-      <change afterPath="$PROJECT_DIR$/src/ArenaQuestion/linkedList/LLAddFirstDeleteFirst.java" afterDir="false" />
+    <list default="true" id="dc16727e-95ba-4cec-8479-add4f591cf64" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/MockTestQuestions/Strings/reverseChar1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MockTestQuestions/Strings/reverseString6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MockTestQuestions/linkedList/LLLastPosition.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MockTestQuestions/linkedList/addDeleteAny.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MockTestQuestions/linkedList/addFirstDeleteFirst.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MockTestQuestions/linkedList/addLastAny.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MockTestQuestions/linkedList/addLastDeleteLast.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MockTestQuestions/question" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MockTestQuestions/queues/queues1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ArenaQuestion/linkedList/LLAddFirst1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ArenaQuestion/linkedList/LLAddFirst1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ArenaQuestion/Strings/reverseStrings.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MockTestQuestions/Strings/reverseStrings.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ArenaQuestion/Strings/reverseStrings1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MockTestQuestions/Strings/reverseStrings1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ArenaQuestion/Strings/reverseStrings2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MockTestQuestions/Strings/reverseStrings2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ArenaQuestion/Strings/reverseStrings3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MockTestQuestions/Strings/reverseStrings3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ArenaQuestion/Strings/reverseStrings4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MockTestQuestions/Strings/reverseStrings4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ArenaQuestion/Strings/reverseStrings5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MockTestQuestions/Strings/reverseStrings5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ArenaQuestion/Strings/stringChar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MockTestQuestions/Strings/stringChar.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ArenaQuestion/Strings/stringsChar1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MockTestQuestions/Strings/stringsChar1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ArenaQuestion/Strings/stringsDeclare.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MockTestQuestions/Strings/stringsDeclare.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ArenaQuestion/linkedList/LLAddFirst.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MockTestQuestions/linkedList/LLAddFirst.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ArenaQuestion/linkedList/LLAddFirst1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MockTestQuestions/linkedList/LLAddFirst1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ArenaQuestion/linkedList/LLAddFirstDeleteFirst.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MockTestQuestions/linkedList/LLAddFirstDeleteFirst.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ArenaQuestion/linkedList/LLAddLast.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MockTestQuestions/linkedList/LLAddLast.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ArenaQuestion/linkedList/LLAddLast1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MockTestQuestions/linkedList/LLAddLast1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ArenaQuestion/linkedList/LLQuestion.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MockTestQuestions/linkedList/LLQuestion.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ArenaQuestion/linkedList/linkListAddFirst.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MockTestQuestions/linkedList/linkListAddFirst.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ArenaQuestion/linkedList/linkListAddLast.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MockTestQuestions/linkedList/linkListAddLast.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ArenaQuestion/linkedList/listSecond.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MockTestQuestions/linkedList/listSecond.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ArenaQuestion/linkedList/userInputLinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MockTestQuestions/linkedList/userInputLinkedList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ArenaQuestion/question" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,9 +60,9 @@
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/src/ArenaQuestion/countDuplicateUsingForLoop.java" root0="SKIP_INSPECTION" />
-    <setting file="file://$PROJECT_DIR$/src/ArenaQuestion/linkedList/linkListAddFirst.java" root0="SKIP_INSPECTION" />
-    <setting file="file://$PROJECT_DIR$/src/ArenaQuestion/linkedList/linkListAddLast.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/Arrays/arrays4.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/MockTestQuestions/linkedList/linkListAddFirst.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/MockTestQuestions/linkedList/linkListAddLast.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/SortingS/mergeSort1.java" root0="SKIP_INSPECTION" />
   </component>
   <component name="MarkdownSettingsMigration">
@@ -52,22 +79,30 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;full.screen.before.presentation.mode&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;F:/Newton_school/java_ practice&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.general&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "full.screen.before.presentation.mode": "false",
+    "last_opened_file_path": "F:/Newton_school/java_ practice/src/MockTestQuestions",
+    "settings.editor.selected.configurable": "preferences.general"
   }
-}</component>
-  <component name="RunManager" selected="Application.LLAddFirstDeleteFirst">
-    <configuration name="LLAddFirst1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ArenaQuestion.linkedList.LLAddFirst1" />
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\Newton_school\java_ practice\src\MockTestQuestions" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="MockTestQuestions" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.LinkedList_Element_From_Last">
+    <configuration name="LLLastPosition" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MockTestQuestions.linkedList.LLLastPosition" />
       <module name="java_ practice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ArenaQuestion.linkedList.*" />
+          <option name="PATTERN" value="MockTestQuestions.linkedList.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -75,12 +110,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LLAddFirstDeleteFirst" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ArenaQuestion.linkedList.LLAddFirstDeleteFirst" />
+    <configuration name="LinkedList_Element_From_Last" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ArenaQuestion.linkedList.LinkedList_Element_From_Last" />
       <module name="java_ practice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ArenaQuestion.linkedList.*" />
+          <option name="PATTERN" value="MockTestQuestions.linkedList.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -88,12 +123,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LLAddLast1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ArenaQuestion.linkedList.LLAddLast1" />
+    <configuration name="addDeleteAny" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MockTestQuestions.linkedList.addDeleteAny" />
       <module name="java_ practice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ArenaQuestion.linkedList.*" />
+          <option name="PATTERN" value="MockTestQuestions.linkedList.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -101,12 +136,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="reverseStrings5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ArenaQuestion.Strings.reverseStrings5" />
+    <configuration name="addLastAny" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MockTestQuestions.linkedList.addLastAny" />
       <module name="java_ practice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ArenaQuestion.Strings.*" />
+          <option name="PATTERN" value="MockTestQuestions.linkedList.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -114,12 +149,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="stringsChar1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ArenaQuestion.Strings.stringsChar1" />
+    <configuration name="queues1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MockTestQuestions.queues.queues1" />
       <module name="java_ practice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ArenaQuestion.Strings.*" />
+          <option name="PATTERN" value="MockTestQuestions.queues.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -129,11 +164,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.LLAddFirstDeleteFirst" />
-        <item itemvalue="Application.LLAddLast1" />
-        <item itemvalue="Application.LLAddFirst1" />
-        <item itemvalue="Application.reverseStrings5" />
-        <item itemvalue="Application.stringsChar1" />
+        <item itemvalue="Application.LinkedList_Element_From_Last" />
+        <item itemvalue="Application.LLLastPosition" />
+        <item itemvalue="Application.addLastAny" />
+        <item itemvalue="Application.addDeleteAny" />
+        <item itemvalue="Application.queues1" />
       </list>
     </recent_temporary>
   </component>
@@ -145,13 +180,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1661871711364</updated>
-    </task>
-    <task id="LOCAL-00012" summary="practice">
-      <created>1662652036187</created>
-      <option name="number" value="00012" />
-      <option name="presentableId" value="LOCAL-00012" />
-      <option name="project" value="LOCAL" />
-      <updated>1662652036187</updated>
     </task>
     <task id="LOCAL-00013" summary="practice">
       <created>1662652092814</created>
@@ -489,7 +517,14 @@
       <option name="project" value="LOCAL" />
       <updated>1669534639259</updated>
     </task>
-    <option name="localTasksCounter" value="61" />
+    <task id="LOCAL-00061" summary="practice">
+      <created>1669539213268</created>
+      <option name="number" value="00061" />
+      <option name="presentableId" value="LOCAL-00061" />
+      <option name="project" value="LOCAL" />
+      <updated>1669539213268</updated>
+    </task>
+    <option name="localTasksCounter" value="62" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

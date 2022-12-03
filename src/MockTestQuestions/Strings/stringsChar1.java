@@ -1,4 +1,4 @@
-package ArenaQuestion.Strings;
+package MockTestQuestions.Strings;
 
 import java.util.Scanner;
 

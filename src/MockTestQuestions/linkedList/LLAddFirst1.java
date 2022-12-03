@@ -1,6 +1,6 @@
-package ArenaQuestion.linkedList;
+package MockTestQuestions.linkedList;
 
-public class LLAddLast1 {
+public class LLAddFirst1 {
     class node{
         int data;
         node next;
@@ -10,21 +10,18 @@ public class LLAddLast1 {
         }
     }
     node head;
-    public void addLasts(int data){
+    public void addFirsts(int data){
         node newNode = new node(data);
         if(head == null){
             head = newNode;
             return;
         }
-        node currNode = head;
-        while (currNode.next != null){
-            currNode = currNode.next;
-        }
-        currNode.next = newNode;
+        newNode.next = head;
+        head = newNode;
     }
-    public void prinNodes(){
+    public void printNode(){
         if(head == null){
-            System.out.println("Node is Empty");
+            System.out.println("Node is empty");
             return;
         }
         node currNode = head;
@@ -32,15 +29,15 @@ public class LLAddLast1 {
             System.out.print(currNode.data + " -> ");
             currNode = currNode.next;
         }
-        System.out.println("null");
+        System.out.print("null");
     }
     public static void main(String[] args) {
-        LLAddLast1 list = new LLAddLast1();
-        list.addLasts(1);
-        list.addLasts(2);
-        list.addLasts(3);
-        list.addLasts(4);
-        list.addLasts(5);
-        list.prinNodes();
+        LLAddFirst1 list = new LLAddFirst1();
+        list.addFirsts(1);
+        list.addFirsts(2);
+        list.addFirsts(3);
+        list.addFirsts(4);
+        list.addFirsts(5);
+        list.printNode();
     }
 }

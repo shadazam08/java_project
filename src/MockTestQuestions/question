@@ -1,0 +1,26 @@
+1.  check if one string is a rotation string
+    input s1: ABCD s2: CDAB
+    output: true
+
+2.  check if two string are anagrams of each other
+    s1: ABCD s2: CDBAC
+    output:true
+
+
+1.  What is Linked List?
+2.	What is Stack?
+3.	What is Queue?
+4.	Given a linked list of N nodes such that it may contain a loop.
+5.  A loop here means that the last node of the link list is connected to the node at position X. If the link list does not have any loop, X=0.
+6.	Remove the loop from the linked list, if it is present.
+7.	Given a String S, reverse the string without reversing its individual words. Words are separated by dots.
+
+
+1.  What is a String, are they Mutable or Immutable?
+2.  What is a Linked List.
+3.  Advantages of Linked List.
+4.  Circular Linked List, real life implementation for it.
+5.  What is Stack.
+6.  How is stack different from Queue.
+7.  Given a string str = "my name is danish khan", convert it into "My Name Is Danish Khan".
+8.  Given a linked List at a node at the last position.
